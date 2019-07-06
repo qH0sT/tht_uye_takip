@@ -1,0 +1,13 @@
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\bin\Debug\tht_uye_takip.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\bin\Debug\tht_uye_takip.exe
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\bin\Debug\tht_uye_takip.pdb
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\obj\Debug\tht_uye_takip.Form1.resources
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\obj\Debug\tht_uye_takip.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\obj\Debug\tht_uye_takip.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\obj\Debug\tht_uye_takip.exe
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\obj\Debug\tht_uye_takip.pdb
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\bin\Debug\HtmlAgilityPack.dll
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\bin\Debug\HtmlAgilityPack.pdb
+c:\users\harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\obj\Debug\tht_uye_takip.Hakkinda.resources
+C:\Users\Harun\documents\visual studio 2015\Projects\tht_uye_takip\tht_uye_takip\obj\Debug\tht_uye_takip.csprojResolveAssemblyReference.cache
